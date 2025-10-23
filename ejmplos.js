@@ -55,7 +55,6 @@ let variable_nula = null; // valor nulo
 console.log(typeof 42); // Muestra: "number" 
 console.log(typeof "web"); // Muestra: "string" 
 console.log(typeof {}); // Muestra: "object"
-
 // object
 const aprendiz = {
     nombre: "Carlos",
